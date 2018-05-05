@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="wood-chips" size="0.203200 0.160792" />
+    <ImageTarget name="road" size="0.215900 0.170842" />
+    <ImageTarget name="business-card" size="0.087000 0.050750" />
+    <ImageTarget name="anim_alg" size="0.235000 0.289678" />
+    <ImageTarget name="UASafezone" size="0.150000 0.150000" />
+  </Tracking>
+</QCARConfig>
